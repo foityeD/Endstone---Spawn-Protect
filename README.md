@@ -76,4 +76,6 @@ Version: `1.0.0`
 
 ---
 
+**P.S. I don't know if this plugin works on other versions, but I know it works on 0.10.4 :D**
+
 > Simple. Fast. Secure. Keep your spawn safe.
