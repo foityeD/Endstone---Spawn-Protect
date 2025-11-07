@@ -1,4 +1,4 @@
-# 🛡️ Endstone SpawnProtect (Beta)
+# 🛡️ SpawnProtect (Beta)
 
 A lightweight **spawn protection plugin** for **Endstone API** (Minecraft Bedrock Edition).  
 Prevents players and mobs from modifying or damaging the area around the spawn point.
