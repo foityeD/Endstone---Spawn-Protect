@@ -23,7 +23,7 @@ Prevents players and mobs from modifying or damaging the area around the spawn p
 
 ## 📦 Installation
 
-**Minimal version of endstone 0.5.5 and better**
+**Minimal version of endstone 0.6.0 and better**
 
 1. Download the `.whl` file of **endstone_spawn_protect**  
 2. Move it to your server’s `plugins` folder  
