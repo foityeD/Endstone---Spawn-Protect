@@ -4,7 +4,7 @@ A lightweight **spawn protection plugin** for **Endstone API** (Minecraft Bedroc
 Prevents players and mobs from modifying or damaging the area around the spawn point.
 
 
-[▶ Watch demo on YouTube](https://youtu.be/_WP1b4tYWs4)
+[▶ Watch demo on YouTube (old v1.0.0)](https://youtu.be/_WP1b4tYWs4)
 
 
 ---
@@ -34,24 +34,6 @@ Prevents players and mobs from modifying or damaging the area around the spawn p
    ```
 
 ---
-
-## ⚙️ Configuration
-After the first run, a config file will be created at:
-```
-plugins/spawnprotect/config.toml
-```
-
-### Example:
-```toml
-radius = 20
-message = "You cannot do this near spawn!"
-
-[spawn_location]
-x = 0
-y = 64
-z = 0
-world = "world"
-```
 
 **Options:**
 - `radius` — radius of protected area  
