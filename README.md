@@ -4,7 +4,7 @@ A lightweight **spawn protection plugin** for **Endstone API** (Minecraft Bedroc
 Prevents players and mobs from modifying or damaging the area around the spawn point.
 
 
-[▶ Watch demo on YouTube (old v1.0.1)](https://youtu.be/_WP1b4tYWs4)
+[▶ Watch demo on YouTube (old v1.0.0)](https://youtu.be/_WP1b4tYWs4)
 
 
 ---
